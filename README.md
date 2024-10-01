@@ -18,6 +18,9 @@
 
 [네이버](https://www.naver.com)
 
+[리드미 꾸미기 참고](https://cafe.naver.com/githubstudy/7)
+### 노타 깃특강8 노트도 참고
+
 ```
 print('hi')
 ```
